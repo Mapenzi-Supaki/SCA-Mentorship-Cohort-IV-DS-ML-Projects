@@ -23,10 +23,12 @@
   > **Dashboard:** https://public.tableau.com/app/profile/mapenzi.supaki/viz/SCAMiniproject-WorldUniversityRanking/TopUniversitiesDashboard
 
   > **Story:** https://public.tableau.com/app/profile/mapenzi.supaki/viz/SCAMiniproject-WorldUniversityStory/UniversitySummary
+ 
+![Top Universities Dashboard](https://user-images.githubusercontent.com/60968870/129919805-77df0d9a-0383-417b-a9fc-d0188bc0749c.png)
 
 ❋ **Week 3 Learning Path & Miniproject:** Introduction to PowerBI (Global Suicide Rate Analysis)
   > **Article:** https://medium.com/geekculture/data-visualization-with-microsoft-power-bi-c7b8cd145654
-
+ 
 ❋ **Week 4 Learning Path & Miniproject:** Course Recap
 
 
