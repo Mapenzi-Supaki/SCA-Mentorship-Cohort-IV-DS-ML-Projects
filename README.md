@@ -37,5 +37,5 @@
 
 ❋ **Week 3 & 4 Learning Path & Miniproject:** E-Commerce Analytics ML Hackathon
   > **Capstone Project:** https://github.com/Mapenzi-Supaki/SCA-Mentorship-Cohort-IV-DS-ML-Projects/tree/master/E-Commerce%20Analytics%20ML%20Hackathon
-    >> **Article:** https://mapenzi-supaki.medium.com/the-homestretch-sca-mentorship-ml-project-f7be925e0a3b
+   >> **Article:** https://mapenzi-supaki.medium.com/the-homestretch-sca-mentorship-ml-project-f7be925e0a3b
 
